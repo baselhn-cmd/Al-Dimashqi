@@ -40,3 +40,7 @@
   - [Acknowledgements](#acknowledgements)
 
 <hr>
+
+## Business Plan  
+### Executive Summary:
+This project for a claint want a creative website to show their products.
